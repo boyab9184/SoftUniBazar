@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{5AB0186D-BB55-4B3E-B740-10B192B1809C}|Default">
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SoftUniBazar PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
